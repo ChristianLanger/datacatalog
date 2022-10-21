@@ -1,7 +1,7 @@
 ---
 title: My test page
 description: just a little test description
-background: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fexplore%2Froyalty-free-images&psig=AOvVaw1TU-L2EiJnLwpDv_rZiY3E&ust=1666429125434000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMCP0bP68PoCFQAAAAAdAAAAABAD
+background: https://images.unsplash.com/photo-1490730141103-6cac27aaab94?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
 permalink: /about/
 toc: false
 comments: false # See posts
