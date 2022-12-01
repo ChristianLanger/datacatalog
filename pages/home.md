@@ -1,5 +1,10 @@
 ---
-layout: home
+title: Natura Connect catalog
+description: just a little test description
+background: https://images.pexels.com/photos/14127944/pexels-photo-14127944.jpeg
+permalink: /home/
+toc: false
+comments: false # See posts
 ---
 
-just a test
+Natura Connect data catalog
