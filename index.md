@@ -1,1 +1,1 @@
-This is my test page
+This is a test page for natura connect
